@@ -1,2 +1,3 @@
-#Demo
-Added another line to README.md
+# Dummy Repository
+
+- Used while I was Learning how to use GIT.
